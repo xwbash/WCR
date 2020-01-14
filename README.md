@@ -3,18 +3,16 @@
 ***[$] I'm trying to improve myself i'm a 17 years old yet. If i have any fault please, warn me because i just working with my self, no one helps me. but your feedbacks can help.*** </br>
 
 Engilish Language. </br>
-[!] Program can only use on firefox maybe i can update and make all webrowser later. </br>
-[!] You need Python 3.5 + or 2.7 & and you need to install selenium. </br>
-[!] After install selenium install the https://github.com/mozilla/geckodriver/releases. </br>
-[!] You must check your proxy before use.</br>
+[!] This program created for combine the big text file or combine the wordlists </br>
+[!] You need Python 3.5 + or 2.7.</br>
+[!] Accepts full of responsibility for the any issues or law the person or persons who using the code. </br>
 
 [~] Thats it i hope you liked.</br>
 
 Turkish Language.</br>
-[!] Program firefox ile kullanılabilir durumda eğer üşenmez isem daha sonra güncelleme yaparım ve bütün tarayıcıları eklerim.</br>
-[!] Programın çalışması için Python 3.5 yada 2.7 üstü sürümleride olabilir, gerekmekte!</br>
-[!] Bütün kurulumlardan hemen sonra https://github.com/mozilla/geckodriver/releases. Bunuda yükleyiniz.</br>
-[!] Kullanmadan önce proxylerinizi kontrol ediniz.</br>
+[!] Program büyük iki farklı yazı dosyasını birleştirmek yada wordlistleri birleştirmek adına oluşturulmuştur.</br>
+[!] Programın çalışması için Python 3.5 yada 2.7 üstü sürümleri gerekmekte.</br>
+[!] Kullanıcı başına gelecek her hangi bir sorun yada yasal suçlamalardan tamamiyle kendi sorumludur.</br>
 
 [~] Bu kadar umarım beğenirsiniz.</br>
 
